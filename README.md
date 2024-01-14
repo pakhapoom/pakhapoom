@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :raised_eyebrow: I'm a part-time mathematician who enjoys doing ML projects.
-- :book: I like writing an article. If you love reading, I can recommend [some](https://pakhapoomsarapat.medium.com) for you.
-- :tv: I am now developing a community on YouTube about data science, mathematics and some of board games. Please visit [this channel](https://www.youtube.com/@pakapongza01), if you like.
+- :raised_eyebrow: I'm a mathematician-turned data scientist, and currently evolving to an AI scientist.
+- :book: I like writing an article. If you love reading, I can recommend [some]([https://pakhapoomsarapat.medium.com](https://pakhapoomsarapat.medium.com)) for you.
+- :tv: I am now developing a community on YouTube about LLMs, data science, mathematics and some of board games. Please visit [this channel](https://www.youtube.com/@pakapongza01), if you like.
 - :golf: See me more on [Linkedin](https://th.linkedin.com/in/pakhapoom-sarapat).
